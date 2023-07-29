@@ -1,0 +1,18 @@
+.nav {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.home {
+    position: fixed;
+    left: 1rem;
+    text-decoration: none;
+    color: #000000;
+}
+
+.home:hover {
+    color: #4b4949;
+}
+
